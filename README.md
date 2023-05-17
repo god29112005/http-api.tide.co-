@@ -1,2 +1,2 @@
-# t.glb.paypal.com
+# http://api.tide.co/
 test
